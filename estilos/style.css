@@ -26,9 +26,13 @@ h3{
 /*fim do css global*/
 /*inicio css banner*/
 .banner-topo {
-  background-image: url(/imagens/banner-topo.jpg);
+  background-image: url("/imagens/banner-topo.jpg");
   background-position: center;
-  background-position: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0 0 3 0
+ 
+  
 
 }
 
